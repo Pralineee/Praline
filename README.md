@@ -5,9 +5,9 @@ Olly 🌿🐛#5113
 
 ### 📊 Stats
 
-![Praline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pralineee&show_icons=true&theme=gruvbox)
+![Praline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pralineee&show_icons=true&theme=radical)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Pralineee&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Pralineee&theme=radical&border_radius=4.5) -->
 
 # Actively Learning
 
