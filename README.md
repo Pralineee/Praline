@@ -5,7 +5,7 @@
 
 ### 📊 Stats
 
-![Praline's GitHub stats](https://streak-stats.demolab.com/?user=Pralineee)](https://git.io/streak-stats))
+![Praline's GitHub stats](https://streak-stats.demolab.com/?user=Pralineee)
 P
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Pralineee&theme=radical&border_radius=4.5) -->
 
