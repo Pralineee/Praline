@@ -5,8 +5,8 @@
 
 ### 📊 Stats
 
-![Praline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pralineee&show_icons=true&theme=radical)
-
+![Praline's GitHub stats](https://streak-stats.demolab.com/?user=Pralineee)](https://git.io/streak-stats))
+P
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Pralineee&theme=radical&border_radius=4.5) -->
 
 # Actively Learning
