@@ -5,9 +5,9 @@
 
 ### 📊 Stats
 
-![Praline's GitHub stats](https://streak-stats.demolab.com/?user=Pralineee)
+![Praline's GitHub stats](https://streak-stats.demolab.com/?user=Pralineee&theme=radical)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Pralineee&theme=dark=radical&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Pralineee&theme=radical=radical&border_radius=4.5) -->
 
 # Actively Learning
 
